@@ -22,7 +22,7 @@ setup(
    description="A tool for analyzing stock technical indicators (RSI and Bollinger Bands)",
    long_description=open("README.md").read(),
    long_description_content_type="text/markdown",
-   url="https://github.com/yourusername/stock_analyzer",
+   url="https://github.com/litianning123/stock_analyzer",
    classifiers=[
        "Programming Language :: Python :: 3",
        "License :: OSI Approved :: MIT License",

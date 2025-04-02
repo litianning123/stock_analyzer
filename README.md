@@ -9,7 +9,7 @@ A Python package for analyzing stock technical indicators (RSI and Bollinger Ban
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock_analyzer.git
+git clone https://github.com/litianning123/stock_analyzer.git
 cd stock_analyzer
 ```
 
