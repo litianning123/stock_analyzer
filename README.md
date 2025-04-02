@@ -104,6 +104,10 @@ The tool generates trading signals based on the following conditions:
 - **HOLD**: All other conditions
 
 
+## Sample Output
+
+![plot](./res/sample.png)
+
 ## Requirements
 
 
